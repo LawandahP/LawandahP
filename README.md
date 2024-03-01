@@ -1,20 +1,5 @@
 ### 
 
-<!--
-**LawandahP/LawandahP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
@@ -39,16 +24,12 @@ Here are some ideas to get you started:
 
 ---
 
-### 👨‍🦲: About Me :
+### 👨‍🦲 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- 🔭: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 🌱: Exploring Technical Content Writing.
-
-- ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-githaiga-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin/in/githaiga-kairuthi)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-githaiga-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin/in/githaiga-kairuthi)
 
 ---
 
@@ -73,7 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🔥🔥: My Stats :
+### 🔥🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LawandahP&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
