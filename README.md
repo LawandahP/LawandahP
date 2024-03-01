@@ -1,7 +1,7 @@
 ### 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
     <a href="https://linkedin.com/in/githaiga-kairuthi/">
@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=LawandahP&style=flat-square&color=blue" alt=""/>
 
   <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VhMmtweWR4YXd4ZjZrNmRjbXMzeHVsZ3NsYjkyMHFsaWszdnV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="300"/>
   </div>
 </div>
 
