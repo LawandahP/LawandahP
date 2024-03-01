@@ -33,7 +33,8 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=LawandahP&style=flat-square&color=blue" alt=""/>
 
    <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <img src="https://giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="300"/>
+     <iframe src="" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p>
   </div>
 </div>
 
