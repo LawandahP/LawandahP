@@ -59,3 +59,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LawandahP&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LawandahP&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
